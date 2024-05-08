@@ -1,11 +1,11 @@
 # NotSoCreative
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/paulffm/Methods-and-Applications-of-Electromagnetic-Field-Simulation-using-FIT/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/paulffm/S-P500-AI-Investement-Recommendation-Engine/blob/main/LICENSE)
 
 Welcome to the NotSoCreative repository! This project is part of the Data Science II course offered by the Signal Processing Group at the Department of Electrical Engineering and Information Technology at TU Darmstadt.
 
 <p align="center">
-  <img src="frontend.png"  alt="frontend" width="600px" height="419px">
+  <img src="frontend.png"  alt="frontend" width="900px" height="630px">
 </p>
 
 ## Objective
@@ -40,4 +40,4 @@ We've utilized a range of technologies to build and deploy our recommendation en
 
 By leveraging these technologies, we've developed a comprehensive recommendation engine that maximizes investment opportunities in the S&P 500 index.
 
-Feel free to explore the code and documentation to gain insights into our approach and methodology. Additionally, you can check out our presentation slides [here](link-to-presentation). If you have any questions or suggestions, please don't hesitate to reach out!
+Feel free to explore the code and documentation to gain insights into our approach and methodology. Additionally, you can check out our presentation slides [here](https://github.com/paulffm/S-P500-AI-Investement-Recommendation-Engine/blob/main/NotSoCreativePresentation.pdf). If you have any questions or suggestions, please don't hesitate to reach out!
