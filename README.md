@@ -10,7 +10,28 @@ Welcome to the S&P 500 AI Trading Bot Simulation repository! This project is par
 
 ## Objective
 
-The main objective of this project is to develop a recommendation engine that optimizes an initial investment in the S&P 500 index. We've undertaken several approaches to achieve this goal:
+The main objective of this project was to develop an automated trading tool that continuously invests in the S&P 500 over several weeks. This trading bot is designed to function autonomously, making investment decisions and managing the portfolio without human intervention.
+
+### Features
+
+1. **Automated Investments**: The trading tool automatically makes investment decisions in the S&P 500 index, simulating real trades over an extended period.
+2. **Continuous Operation**: The bot operates continuously, making investment decisions for several weeks.
+3. **Real-Time Monitoring**: Users can monitor the investments, stock prices, portfolio value, returns, and more through a frontend provided as a desktop application.
+4. **Daily Email Reports**: Users receive daily email reports summarizing the investments made, portfolio value, and other key metrics and information.
+5. **Simulation**: The tool simulates investments in the S&P 500 rather than making real trades. However, it can be extended to perform actual trades using appropriate APIs.
+
+### Usage
+
+- **Desktop Application**: The frontend allows users to view and interact with the trading bot's performance. Key metrics such as investment history, portfolio value, and returns are displayed in an intuitive interface.
+- **Email Notifications**: Users can configure the tool to send daily email summaries of the trading activities, providing insights into the performance of the investments and other relevant information.
+
+### Future Enhancements
+
+While the current implementation simulates investments, it can be easily extended to perform real trades by integrating with financial APIs. This would allow the trading tool to make actual investments in the S&P 500, enhancing its practical application.
+
+## Technical Details
+
+To develop an effective investment strategy, we have undertaken several approaches:
 
 1. **Technical Analysis Indicator Approach**: We began with an initial approach based on Technical Analysis Indicators.
    
