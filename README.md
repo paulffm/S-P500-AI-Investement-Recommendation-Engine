@@ -1,4 +1,4 @@
-# S&P 500 AI Trading Bot Simulation
+# S&P 500 AI Trading Bot
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/paulffm/S-P500-AI-Investement-Recommendation-Engine/blob/main/LICENSE)
 
