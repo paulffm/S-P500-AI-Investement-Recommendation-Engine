@@ -5,7 +5,7 @@
 Welcome to the S&P 500 AI Trading Bot Simulation repository! This project is part of the Data Science II course offered by the Signal Processing Group at the Department of Electrical Engineering and Information Technology at TU Darmstadt.
 
 <p align="center">
-  <img src="frontend.png"  alt="frontend" width="900px" height="630px">
+  <img src="frontend.png"  alt="frontend" width="600px" height="420px">
 </p>
 
 ## Objective
