@@ -1,8 +1,8 @@
-# S&P 500 AI Trading Bot
+# AI Trading Bot and Recommendation Engine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/paulffm/S-P500-AI-Investement-Recommendation-Engine/blob/main/LICENSE)
 
-Welcome to the S&P 500 AI Trading Bot Simulation repository! This project is part of the Data Science II course offered by the Signal Processing Group at the Department of Electrical Engineering and Information Technology at TU Darmstadt.
+Welcome to the AI Trading Bot Simulation repository! This project is part of the Data Science II course offered by the Signal Processing Group at the Department of Electrical Engineering and Information Technology at TU Darmstadt.
 
 <p align="center">
   <img src="frontend.png"  alt="frontend" width="600px" height="420px">
